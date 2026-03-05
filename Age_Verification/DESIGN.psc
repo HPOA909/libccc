@@ -205,6 +205,10 @@ set main() to function
     set file to open "age_verification_result.txt" for writing
     if age >= 18 then
         write "User is old enough to access the content." to file
+    else if age < 18 and age >=16 then
+        write "User is close to being old enough to access the content." to file
+    else if age < 16 and age >= 13 then
+        write "User is not old enough to access the content, but may be close in the near future." to file
     else
         write "User is not old enough to access the content." to file
     end if
