@@ -9,7 +9,7 @@ This library also contained some protest letters for the readers' knowledge.
 To design a program, you must design in pseudocode before you start coding.
 
 ## Branching
-Upon you creating a branch, please make sure to use "Simple Title Allocation" because everyone 
+Upon you creating a branch, please make sure to use ["Simple Title Allocation"](https://www.google.com/search?q=simple+title+allocation+github+branch) because everyone 
 just simply to know what are you talking about.
 
 ## Contribution
