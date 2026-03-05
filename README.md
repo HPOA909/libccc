@@ -8,9 +8,13 @@ This library also contained some protest letters for the readers' knowledge.
 ## Designing a Program
 To design a program, you must design in pseudocode before you start coding.
 
+### Templates
+There will be templates for doing this. Stay tuned.
+
 ## Branching
-Upon you creating a branch, please make sure to use ["Simple Title Allocation"](https://www.google.com/search?q=simple+title+allocation+github+branch) because everyone 
-just simply to know what are you talking about.
+Upon you creating a branch, please make sure to use 
+["Simple Title Allocation"](https://www.google.com/search?q=simple+title+allocation+github+branch) 
+because everyone just simply to know what are you talking about.
 
 ## Contribution
 To contribute, simply clone this repo and commit it to your cloned repo.
