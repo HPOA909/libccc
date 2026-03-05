@@ -187,6 +187,7 @@ set main() to function
 
     ; Calculate age
     set age to currentYear - birthYear
+
     ; Check if the user has had their birthday this year
     if (currentMonth < birthMonth) or (currentMonth == birthMonth and currentDay < birthDay) then
         set age to age - 1
@@ -195,8 +196,13 @@ set main() to function
     ; Output the user's age
     print "Your age is: " + age
 
-    ; Check if the user is old enough to access the content    if age >= 18 then
+    ; Check if the user is old enough to access the content    
+    if age >= 18 then
         print "You are old enough to access the content."
+    else if age < 18 and age >=16 then
+        print "You are close to being old enough to access the content."
+    else if age < 16 and age >= 13 then
+        print "You are not old enough to access the content, but may be close in the near future."
     else
         print "You are not old enough to access the content."
     end if
