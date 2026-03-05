@@ -11,3 +11,7 @@ To design a program, you must design in pseudocode before you start coding.
 ## Branching
 Upon you creating a branch, please make sure to use "Simple Title Allocation" because everyone 
 just simply to know what are you talking about.
+
+## Contribution
+To contribute, simply clone this repo and commit it to your cloned repo.
+Later, just create a new issue for merging and will be reviewed upon submission.
